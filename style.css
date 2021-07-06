@@ -2,9 +2,18 @@
     background-color: brown;
     font-size: 32px;
     color: chartreuse;
+    font-
 }
 
 .fotoraf {
     width: 100px;
     height: 100px;
+}
+
+.span {
+    text-align: end;
+}
+
+.home {
+    align-self: center;
 }
