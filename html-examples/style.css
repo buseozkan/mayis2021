@@ -1,0 +1,12 @@
+h1{
+    position: relative;
+    color: khaki;
+}
+
+p {
+    position: sticky;
+}
+
+p.pos_left {
+    left: -20px;
+}
